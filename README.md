@@ -1,2 +1,3 @@
 # student
- first code
+myfirst code
+author: joseph
